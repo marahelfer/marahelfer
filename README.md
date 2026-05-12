@@ -1,16 +1,26 @@
-## Hi there 👋
+# hi, i'm mara 💌
 
-<!--
-**marahelfer/marahelfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## about me
 
-Here are some ideas to get you started:
+🌱 computer science student at Northeastern University  
+💻 interested in software engineering, AI, fashion tech, and defense tech  
+🛠️ currently learning Kotlin, C, Java, and systems programming  
+🎀 part-time stylist + full-time CS girl  
+📍 Boston 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## fav projects
+
+| name | description |
+|---|---|
+| mini-shell | C systems project using fork, execvp, pipes, and redirection |
+| fashion trend analysis | data project using fashion APIs to study trends |
+| calendar app | Java calendar project with events, series, and scheduling logic |
+
+---
+
+## currently
+
+- building my GitHub into a portfolio
+- applying for software engineering co-ops
